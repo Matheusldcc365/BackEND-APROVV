@@ -1,1 +1,6 @@
-
+{
+    "name": "gestao-clientes/backend",
+    "require": {
+        "codeigniter4/framework": "^4.3"
+    }
+}
